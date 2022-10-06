@@ -1,0 +1,34 @@
+C:\$Recycle.Bin
+C:\$WINDOWS.~BT
+C:\$Windows.~WS
+C:\$WinREAgent
+C:\AdwCleaner
+C:\bootmgr
+C:\BOOTNXT
+C:\Brother
+C:\Config.Msi
+C:\desktop.ini
+C:\Documents and Settings
+C:\DumpStack.log
+C:\DumpStack.log.tmp
+C:\ESD
+C:\Games
+C:\GOG Games
+C:\hiberfil.sys
+C:\KVRT_Data
+C:\MSOCache
+C:\OneDriveTemp
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\rdp
+C:\Recovery
+C:\SCAD Soft
+C:\spellings
+C:\swapfile.sys
+C:\System Volume Information
+C:\TeklaStructuresModels
+C:\Users
+C:\Windows
